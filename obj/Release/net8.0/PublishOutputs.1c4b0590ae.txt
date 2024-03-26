@@ -1,0 +1,7 @@
+/Users/markusft/Documents/GitHub/portfolio/bin/Release/net8.0/publish/BlazorApp
+/Users/markusft/Documents/GitHub/portfolio/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/markusft/Documents/GitHub/portfolio/bin/Release/net8.0/publish/appsettings.json
+/Users/markusft/Documents/GitHub/portfolio/bin/Release/net8.0/publish/BlazorApp.dll
+/Users/markusft/Documents/GitHub/portfolio/bin/Release/net8.0/publish/BlazorApp.deps.json
+/Users/markusft/Documents/GitHub/portfolio/bin/Release/net8.0/publish/BlazorApp.runtimeconfig.json
+/Users/markusft/Documents/GitHub/portfolio/bin/Release/net8.0/publish/BlazorApp.pdb
